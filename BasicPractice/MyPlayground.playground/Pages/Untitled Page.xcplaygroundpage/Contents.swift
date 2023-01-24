@@ -83,7 +83,7 @@ var origin = (x : 0 , y : 0)
 var point = origin
 print(point)
 
-let city = (name : "Maryville" , population : 11,000)
+let city = (name : "Maryville" , population : 11000)
 let ( cityName ,cityPopulation ) = (city.0 , city.1)
 print(cityName)
 print(cityPopulation)
@@ -120,4 +120,4 @@ which is asked" above.
 given in the ios; presentation."
 """
 
-print(quotation)s
+print(quotation)
