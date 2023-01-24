@@ -104,3 +104,20 @@ print(cricketKit.0)
 print(cricketKit.1)
 print(cricketKit.2.0)
 print(cricketKit.2.1)
+
+
+//: [Previous](@previous)
+
+
+var greeting1 = "Hello, playground"
+
+//: [Next](@next)
+let quotation = """
+Multi quotation line . " print the statement,
+which is asked" above.
+
+"Start a new line of statment," to print all new lines", of code
+given in the ios; presentation."
+"""
+
+print(quotation)s
